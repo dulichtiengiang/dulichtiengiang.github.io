@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 
-gem: jekyll-sitemap
+gem: 
+    - jekyll-sitemap

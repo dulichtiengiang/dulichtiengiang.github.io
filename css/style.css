@@ -293,23 +293,23 @@ p, h1, h2, h3, h4, h5, h6, ul, ol {
   min-height: 100vh;
   overflow: hidden; }
   .container-landscape__chonoicaibe {
-    background-image: url("../../images/1920x1200__chonoicaibe.jpg");
+    background-image: url("../images/1920x1200__chonoicaibe.jpg");
     background-size: cover;
     background-position: center; }
   .container-landscape__bientanthanh {
-    background-image: url("../../images/1920x1200__bientanthanh.jpg");
+    background-image: url("../images/1920x1200__bientanthanh.jpg");
     background-size: cover;
     background-position: center; }
   .container-landscape__chuavinhtrang {
-    background-image: url("../../images/1920x1200__chuavinhtrang.jpg");
+    background-image: url("../images/1920x1200__chuavinhtrang.jpg");
     background-size: cover;
     background-position: center; }
   .container-landscape__mietvuoncaibe {
-    background-image: url("../../images/1920x1200__mietvuoncaibe.jpg");
+    background-image: url("../images/1920x1200__mietvuoncaibe.jpg");
     background-size: cover;
     background-position: center; }
   .container-landscape__culaothoison {
-    background-image: url("../../images/1920x1200__culaothoison.jpg");
+    background-image: url("../images/1920x1200__culaothoison.jpg");
     background-size: cover;
     background-position: center; }
 
